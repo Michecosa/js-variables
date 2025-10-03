@@ -9,6 +9,18 @@ console.log(name);
 // Crea tre variabili chiamate number, text e bool e assegna rispettivamente
 // un numero, una stringa e un valore booleano.
 // Stampa tutti i valori nella console.
+let numero = 6;
+let stringa = "Ottobre";
+let booleano = true;
+console.log(
+`
+  Questo è un valore numerico: ${numero}
+  Questa è una stringa: ${stringa}
+  Questo è un valore booleano: ${booleano}
+
+`
+);
+
 
 // 3. Sostituisci null nelle righe sottostanti utilizzando operazioni con le stringhe
 // e le variabili sopra in modo da stampare correttamente 
