@@ -1,7 +1,7 @@
 // 1. Dichiarazione di variabili
 // Crea una variabile chiamata name e assegnale il tuo nome.
 // Stampa il valore di nome nella console.
-let name = "Michela"
+let name = "Michela";
 console.log(name);
 
 
