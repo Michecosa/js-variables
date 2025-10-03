@@ -9,14 +9,14 @@ console.log(name);
 // Crea tre variabili chiamate number, text e bool e assegna rispettivamente
 // un numero, una stringa e un valore booleano.
 // Stampa tutti i valori nella console.
-let numero = 6;
-let stringa = "Ottobre";
-let booleano = true;
+let number = 6;
+let text = "Ottobre";
+let bool = true;
 console.log(
 `
-  Questo è un valore numerico: ${numero}
-  Questa è una stringa: ${stringa}
-  Questo è un valore booleano: ${booleano}
+  Questo è un valore numerico: ${number}
+  Questa è una stringa: ${text}
+  Questo è un valore booleano: ${bool}
 
 `
 );
